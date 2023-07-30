@@ -2,4 +2,4 @@
 
 ## calculator using interface
 Create a Basic calculator using
-interface concept from java
+interface concept from java language.
